@@ -1,0 +1,12 @@
+{
+    "description": "The basic introduction and documentation(will be added later) of the project Convenient MCL",
+    "repo": "https://github.com/cmcl-dev/cmcl-dev.github.io",
+    "owner": {
+        "username": "cmcl-dev",
+        "email": "liumingedwin@qq.com",
+        "twitter": "none"
+    },
+    "record": {
+        "CNAME": "cmcl-dev.github.io"
+    }
+} 
